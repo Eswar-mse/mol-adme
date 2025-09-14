@@ -1,3 +1,8 @@
+![PyPI](https://img.shields.io/pypi/v/mol-adme)
+![Python](https://img.shields.io/pypi/pyversions/mol-adme)
+![License](https://img.shields.io/github/license/Eswar-mse/mol-adme)
+
+
 ## mol-adme
 
 mol-adme
