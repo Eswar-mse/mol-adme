@@ -1,5 +1,6 @@
 ![PyPI](https://img.shields.io/pypi/v/mol-adme)
-![Python](https://img.shields.io/pypi/pyversions/mol-adme)
+[![Python](https://img.shields.io/badge/Python-3.11-yellow.svg)](https://www.python.org/)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
